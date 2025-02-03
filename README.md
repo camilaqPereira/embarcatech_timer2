@@ -45,35 +45,10 @@ Caso deseje simular o funcionamento no Wokwi, basta abrir o arquivo _diagram.jso
 
 ## Testes
 
-### Simulação no Wokwi for VSCode
+### [Simulação no Wokwi for VSCode](https://drive.google.com/file/d/1m8Zx33OUe4jr2O6RRjAhpuDSFkFYEdBp/view?usp=sharing)
 
-<div align="center">
-  <figure>  
-    <img src="docs/wokwi.gif" width="600px">
-    <figcaption>
-      <p align="center">
-        
-Figura 1 - Teste no simulador Wokwi para VSCode
 
-</p>
-    </figcaption>
-  </figure>
-</div>
-
-### Simulação na placa BitDogLab
-
-<div align="center">
-  <figure>  
-    <img src="docs/bitdoglab.gif" width="600px">
-    <figcaption>
-      <p align="center">
-        
-Figura 1 - Teste no simulador Wokwi para VSCode
-
-</p>
-    </figcaption>
-  </figure>
-</div>
+### [Simulação na placa BitDogLab](https://drive.google.com/file/d/1hMW1PR9f1rV_vaptrO4l3qrQ7kGxn9Da/view?usp=sharing)
 
 
 >[!NOTE]
